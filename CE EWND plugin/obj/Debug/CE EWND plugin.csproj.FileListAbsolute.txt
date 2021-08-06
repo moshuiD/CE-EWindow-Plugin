@@ -1,8 +1,0 @@
-D:\VS程序\C#\CE EWND plugin\bin\Debug\CE EWND plugin.dll
-D:\VS程序\C#\CE EWND plugin\bin\Debug\CE EWND plugin.pdb
-D:\VS程序\C#\CE EWND plugin\obj\Debug\CE EWND plugin.csproj.AssemblyReference.cache
-D:\VS程序\C#\CE EWND plugin\obj\Debug\CE_EWND_plugin.MainForm.resources
-D:\VS程序\C#\CE EWND plugin\obj\Debug\CE EWND plugin.csproj.GenerateResource.cache
-D:\VS程序\C#\CE EWND plugin\obj\Debug\CE EWND plugin.csproj.CoreCompileInputs.cache
-D:\VS程序\C#\CE EWND plugin\obj\Debug\CE EWND plugin.dll
-D:\VS程序\C#\CE EWND plugin\obj\Debug\CE EWND plugin.pdb
